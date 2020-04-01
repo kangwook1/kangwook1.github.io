@@ -1,18 +1,10 @@
 ---
 layout: page
 title: About
-permalink: /about/
+author: kangwook
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+ 안녕하세요. 19학번 김강욱입니다. 앞으로 제가 궁금하고 흥미 있는 주제를 올릴 예정입니다.
 
 
-[jekyll-organization]: https://github.com/jekyll
+
