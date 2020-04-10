@@ -1,7 +1,7 @@
 ---
 layout: single
 date: 2020-04-01 10:30 +0900
-title: Markdown의 첫걸음
+title: Markdown's first step
 author: kangwook
 ---
 

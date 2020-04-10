@@ -1,7 +1,7 @@
 ---
 layout: single
 date: 2020-04-01 11:30 +0900
-title: 자바 버전에 따른 차이점
+title: java version history
 author: kangwook
 ---
 
