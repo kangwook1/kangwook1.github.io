@@ -11,7 +11,7 @@ author: kangwook
 
 ## 슈트라센 알고리즘 분석
 
-그럼 어떻게 보완했는지 알아봅시다. 먼저 A와 B를  정사각 행렬(**크기는 2n × 2n **)이라고 가정을 합니다. 그리고 두 행렬의 곱 C는 다음과 같습니다.![{\displaystyle \mathbf {C} =\mathbf {A} \mathbf {B} \qquad \mathbf {A} ,\mathbf {B} ,\mathbf {C} \in F^{2^{n}\times 2^{n}}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/f4c680ec4a32379114e0326ba69b179881b69e8e)
+그럼 어떻게 보완했는지 알아봅시다. 먼저 A와 B를  정사각 행렬(**크기는 2n × 2n**)이라고 가정을 합니다. 그리고 두 행렬의 곱 C는 다음과 같습니다.![{\displaystyle \mathbf {C} =\mathbf {A} \mathbf {B} \qquad \mathbf {A} ,\mathbf {B} ,\mathbf {C} \in F^{2^{n}\times 2^{n}}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/f4c680ec4a32379114e0326ba69b179881b69e8e)
 
 만약 A와 B가 정사각형 꼴의크기가 아니면 0으로 채워줍니다.
 
